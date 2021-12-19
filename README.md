@@ -1,2 +1,9 @@
 # templates
-To save the templates of some data structures or algorithm termplates.
+
+- Created by students from dyyyz
+- To share each other the templates in algorithms
+- Continuing updating
+
+## Added Templates
+- 线段树 (seg-tree.cpp)
+- 分块区间操作(blocks.cpp)

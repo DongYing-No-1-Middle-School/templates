@@ -1,6 +1,5 @@
 #include <cstdio>
 
-
 inline int/* the 'int' can  replace to __int128 etc.*/ read() {
   int x = 0, f = 1;
   char ch = getchar();

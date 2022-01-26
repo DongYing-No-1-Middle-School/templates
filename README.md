@@ -1,6 +1,6 @@
 # templates
 
-- Created by students from dyyyz
+- Created by students from dyyz
 - To share each other the templates in algorithms
 - Continuing updating
 
